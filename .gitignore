@@ -1,0 +1,5 @@
+node_modules/
+statics/css/*.css
+statics/css/*.map
+statics/js/*.js
+.DS_Store

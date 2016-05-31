@@ -1,0 +1,38 @@
+{>"partials/base"/}
+{<bodyContent}
+<a href="#mnmsknl-music" class="mnmsknl-tldr">TLDR TO THE MUSIC!</a>
+<section class="mnmsknl-section mnmsknl-section--bio">
+  <header class="mnmsknl-section__header">
+    <h1 class="mnmsknl-section__title">kaneel is</h1>
+  </header>
+  <article class="mnmsknl-bio__text">
+    {words|s}
+  <article>
+</section>
+<section class="mnmsknl-section mnmsknl-section--music" id="mnmsknl-music">
+  <header class="mnmsknl-section__header">
+    <h1 class="mnmsknl-section__title">Music</h1>
+  </header>
+
+  <section class="mnmsknl-music__container">
+    <h1 class="mnmsknl-music__category">Albums/EPs</h1>
+    {#content.albums}
+      {>"partials/music-large" /}
+    {/content.albums}
+  </section>
+
+  <section class="mnmsknl-music__container">
+    <h1 class="mnmsknl-music__category">Singles</h1>
+    {#content.singles}
+      {>"partials/music-large" /}
+    {/content.singles}
+  </section>
+
+  <section class="mnmsknl-music__container">
+    <h1 class="mnmsknl-music__category">Miscs</h1>
+    {#content.miscs}
+      {>"partials/music-large" /}
+    {/content.miscs}
+  </section>
+</section>
+{/bodyContent}

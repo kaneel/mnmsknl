@@ -1,0 +1,19 @@
+:root {
+  --dark: #fffcea;
+  --background: #383840;
+  --link: #bacdf0;
+  --hover: color(var(--link) shade(50%));
+
+  --clashlighter: color(var(--clash) whiteness(90%));
+  --darklighter: color(var(--dark) whiteness(10%));
+
+  --background-shaded: color(var(--background) shade(5%));
+
+  --maxwidth: 1200;
+}
+
+@custom-selector :--heading h1, h2, h3, h4, h5, h6;
+
+@custom-media --small-viewport (max-width: 320px);
+@custom-media --medium-viewport (min-width: 321px) and (max-width: 640px);
+@custom-media --large-viewport (min-width: 641px);

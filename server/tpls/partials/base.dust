@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {>"partials/head" /}
+    <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create', 'UA-3491943-3', 'auto');ga('send', 'pageview');</script>
+</head>
+<body>
+<div id="wrapper" class="mnmsknl-wrapper">
+  <header class="mnmsknl-site__header">
+    <h1 class="mnmsknl-header__title">mnmsknl</h1>
+    <p class="mnmsknl-header__wow">{choice}</p>
+  </header>
+  {+bodyContent}{/bodyContent}
+  <footer class="mnmsknl-site__footer">
+    <p>Godspeed.</p>
+    <p class="mnmsknl-footer__disclaimer">
+      All these tunes were released through various licenses but basically: DO NOT USE FOR COMMERCIAL PROFITS — but why would you honestly; C'mon, let's be serious…
+    </p>
+  </footer>
+  {#js}
+    <script type="text/javascript" src="{src}"></script>
+  {/js}
+</div>
+</body>
+</html>

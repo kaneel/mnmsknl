@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "dustjs-helpers": "^1.7.3",
+    "dustjs-linkedin": "^2.7.2",
+    "koa": "^2.11.0",
+    "koa-mount": "^4.0.0",
+    "koa-router": "^8.0.7",
+    "koa-static": "^5.0.0",
+    "marked": "^0.8.0",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "browserify": "^16.5.0",
+    "browserslist": "^4.8.6",
+    "cssnano": "^4.1.10",
+    "fs-extra": "^8.1.0",
+    "markdownify": "^0.1.0",
+    "modernizr": "^3.9.0",
+    "partialify": "^3.1.6",
+    "postcss": "^7.0.26",
+    "postcss-color-function": "^4.1.0",
+    "postcss-color-hex-alpha": "^5.0.3",
+    "postcss-custom-media": "^7.0.8",
+    "postcss-custom-properties": "^9.0.2",
+    "postcss-custom-selectors": "^5.1.2",
+    "postcss-extend": "^1.0.1",
+    "postcss-import": "^12.0.1",
+    "postcss-nested": "^4.2.1",
+    "postcss-normalize": "^8.0.1",
+    "uglify-js": "^3.7.7"
+  }
+}

@@ -1,0 +1,100 @@
+@media (--large-viewport) {
+  html {
+    font-size: 100%;
+  }
+}
+
+@media (--medium-viewport) {
+  html {
+    font-size: 62.5%;
+  }
+}
+
+@media (--small-viewport) {
+  html {
+    font-size: 62.5%;
+  }
+}
+
+body {
+  background: var(--background);
+  font: 16px/1.6 "Andale mono", monospace;
+  color: var(--dark);
+}
+
+a {
+  color: var(--link);
+  transition: color 225ms;
+
+
+}
+
+.no-touchevents a:hover {
+  color: var(--hover);
+}
+
+p {
+  font-size: 1em;
+}
+
+:--heading {
+  color: inherit;
+  font-family: geomanist, helvetica;
+}
+
+:--heading:first-child {
+  margin-top: 0;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 8rem;
+  margin: .2em 0;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 4rem;
+  margin: .4em 0;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 2rem;
+}
+
+@media (--small-viewport) {
+  h1 {
+    font-size: 6rem;
+  }
+
+  h2 {
+    font-size: 4rem;
+  }
+
+  h3 {
+    font-size: 2rem;
+  }
+}
+
+.mnmsknl-wrapper{
+  max-width:800px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.mnmsknl-tldr{
+  display: none;
+}
+
+
+@media (--medium-viewport) {
+  .mnmsknl-tldr{
+    display:block;
+  }
+}
+@media (--small-viewport) {
+  .mnmsknl-tldr{
+    display:block;
+  }
+}

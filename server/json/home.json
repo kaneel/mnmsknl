@@ -1,0 +1,692 @@
+{
+    "head": {
+        "title":"mnmsknl"
+      , "meta": [
+          {
+              "name": "description"
+            , "content": "Guillaume kaneel Richard; An Internet person, a computer musician… incidentally french."
+          }
+        , {
+              "name": "keywords"
+            , "content": "music, melodic, electronic, downtempo, soundtracker, netlabel, bandcamp, renoise"
+          }
+        , {
+              "name": "viewport"
+            , "content": "width=device-width, initial-scale=1"
+          }
+        ]
+      , "js": [
+            {
+                "src": "/statics/js/head.js"
+            }
+        ]
+      , "css": [
+            {
+                "href": "/statics/css/client.css"
+            }
+        ]
+    }
+  , "header": {
+    }
+  , "wow": [
+        "Not responsible for anything that could have happened but didn't."
+      , "Clearly, your average best friend™"
+      , "Do you have a moment to talk about Persona our saviour?"
+      , "Radically dangerous for my own self."
+      , "Sorry, but the music is in an other castle."
+      , "It's dangerous to go alone… take this music."
+      , "Let's be clear, this is a list of stuff"
+      , "I'm too old for that shit…"
+      , "Roll initiative"
+    ]
+  , "content": {
+        "albums": [
+            {
+                "title": "What you hear is what you deserve"
+              , "description": "a r t i s t i c p e r s o n a r e s h a p i n g ™"
+              , "date": "70141218"
+              , "links": [
+                  {
+                      "type": "bandcamp"
+                    , "text": "stream/buy on bandcamp"
+                    , "href": "https://kaneel.bandcamp.com/album/what-you-hear-is-what-you-deserve"
+                  }
+                ]
+            }
+          , {
+                "title": "Your average best friend"
+              , "description": "I AM STUPID; YOU ARE WONDERFUL!"
+              , "date": "70110627"
+              , "links": [
+                  {
+                      "type": "bandcamp"
+                    , "text": "stream/buy on bandcamp"
+                    , "href": "https://kaneel.bandcamp.com/album/your-average-best-friend"
+                  }
+                ]
+            }
+          , {
+                "title": "Split w/ Lackluster"
+              , "description": "Mini CD Split EP! Released by [awkward silence rec.](https://awkwardsilencerecordings.bandcamp.com/)"
+              , "date": "70110523"
+              , "links": [
+                  {
+                      "type": "bandcamp"
+                    , "text": "stream/buy on bandcamp"
+                    , "href": "https://awkwardsilencerecordings.bandcamp.com/album/kaneel-lackluster-split-ep"
+                  }
+                ]
+            }
+          , {
+                "title": "Here is a heart so you can remember how much I hate you"
+              , "description": "A serious april fool that didn't go as expected"
+              , "date": "20100401"
+              , "links": [
+                  {
+                      "type": "bandcamp"
+                    , "text": "stream/buy on bandcamp"
+                    , "href": "https://kaneel.bandcamp.com/album/here-is-a-heart-so-you-can-remember-how-much-i-hate-you"
+                  }
+                ]
+            }
+          , {
+                "title": "La pink note"
+              , "description": "It's about unemployement, probably?"
+              , "date": "20080416"
+              , "links": [
+                  {
+                      "type": "bandcamp"
+                    , "text": "stream/buy on bandcamp"
+                    , "href": "https://kaneel.bandcamp.com/album/la-pink-note"
+                  }
+                ]
+            }
+          , {
+                "title": "I've sketched it a while ago"
+              , "description": "b r o k e n"
+              , "date": "20080225"
+              , "links": [
+                  {
+                      "type": "bandcamp"
+                    , "text": "stream/buy on bandcamp"
+                    , "href": "https://kaneel.bandcamp.com/album/ive-sketched-it-a-while-ago"
+                  }
+                ]
+            }
+          , {
+                "title": "Miopedi: Errata"
+              , "description": "Life being almost nowhere. Again as leenak w/ [makunouchi bento](https://makunouchibento.bandcamp.com/)"
+              , "date": "20040228"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/one04"
+                  }
+                ]
+            }
+          , {
+                "title": "Miopedi"
+              , "description": "Life being nowhere. As leenak w/ [makunouchi bento](https://makunouchibento.bandcamp.com/)"
+              , "date": "20030926"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/kpu046"
+                  }
+                ]
+            }
+        ]
+      , "singles": [
+            {
+                "title": "Légère anxiété"
+              , "description": "Title says it all"
+              , "date": "20151216"
+              , "links": [
+                  {
+                      "type": "bandcamp"
+                    , "text": "stream/buy on bandcamp"
+                    , "href": "https://kaneel.bandcamp.com/track/l-g-re-anxi-t"
+                  }
+                ]
+            }
+          , {
+                "title": "Backyard bataille ver 1"
+              , "description": "First version of this now-classic track"
+              , "date": "20091225"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/petitejolie008"
+                  }
+                ]
+            }
+          , {
+                "title": "Au revoir pt.3"
+              , "description": "The saga continues…"
+              , "date": "20090520"
+              , "links": [
+                  {
+                      "type": "bandcamp"
+                    , "text": "stream/download on bandcamp"
+                    , "href": "https://apegenine.bandcamp.com/album/apegenine-volume-2-hypocondriac"
+                  }
+                ]
+            }
+          , {
+                "title": "I have memories about great BBQs but now it's all over"
+              , "description": "MONSIEUR BAGUETTE INSIDE; He says stop, collaborate and eat your saucisse."
+              , "date": "20090317"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/parties/2009/numerica09/music/streamed/le_monsieur_baguette_-_i_have_memories_about_great_bbqs_but_now_it_s_all_over.mp3"
+                  }
+                ]
+            }
+          , {
+                "title": "Citrate de bétaïne"
+              , "description": "Too much acid but good for your stomach."
+              , "date": "20071126"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/music/groups/camomille/[cam100]cycles-10-citratedebetaine_kaneel.mp3"
+                  }
+                ]
+            }
+          , {
+                "title": "Pyjama lapin"
+              , "description": "For the first comp of <3 p&amp;j <3"
+              , "date": "20071113"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/pantoufle_tagada"
+                  }
+                ]
+            }
+          , {
+                "title": "superkawai"
+              , "description": "some first test with a _normal_ DAW; didn't go as I expected but at least I finished it."
+              , "date": "20070529"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/jamendo-005854"
+                  }
+                ]
+            }
+          , {
+                "title": "BBQPARTY VOL69"
+              , "description": "MONSIEUR BAGUETTE INSIDE; He is firing his bbq, again."
+              , "date": "20070319"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/parties/2007/numerica07/music/mp3_ogg/bbqparty_vol69_(bring_your_baguette_editv3).zip"
+                  }
+                ]
+            }
+          , {
+                "title": "Katatanistic Phu Dot (w/ Benefit of the boomerang)"
+              , "description": "MONSIEUR BAGUETTE INSIDE; Finding a title is hard. Being a ninja too. Making ninjacore? *snap*"
+              , "date": "20061124"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/ronincollective025"
+                  }
+                ]
+            }
+          , {
+                "title": "Let's dance with Theresa"
+              , "description": "MONSIEUR BAGUETTE INSIDE; It's too bad she never had to listen to this joyful breakbeat track, right?"
+              , "date": "20061124"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/ronincollective025"
+                  }
+                ]
+            }
+          , {
+                "title": "le petit train normand (beta ver)"
+              , "description": "Showcase for apegenine"
+              , "date": "20051130"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/PLab017"
+                  }
+                ]
+            }
+          , {
+                "title": "et je danse seul"
+              , "description": "An other failed attempt."
+              , "date": "20051017"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/BKTR007-VA_-_Larbre_dun_Train"
+                  }
+                ]
+            }
+          , {
+                "title": "cosy toboggan"
+              , "description": "Ride the fucked up slide"
+              , "date": "20040929"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/camomille069"
+                  }
+                ]
+            }
+          , {
+                "title": "Matinée odeur cannelle"
+              , "description": "e x p e r i m e n t  as in \"what could go wrong?\""
+              , "date": "20040528"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/camomille063"
+                  }
+                ]
+            }
+          , {
+                "title": "nostalgie d'agoraphobie"
+              , "description": "chillfeels"
+              , "date": "20041601"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/od061"
+                  }
+                ]
+            }
+          , {
+                "title": "chillchill"
+              , "description": "it's cold"
+              , "date": "20030408"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/camomille029"
+                  }
+                ]
+            }
+          , {
+                "title": "monochrome"
+              , "description": "Collab w/ tao"
+              , "date": "20030926"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive"
+                    , "href": "https://archive.org/details/kpu018"
+                  }
+                ]
+            }
+          , {
+                "title": "imho"
+              , "description": "Orignally a buzztracker experiment. Breaks and feels."
+              , "date": "20021215"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/music/groups/ogredung/od055_-_10_-_neelka_-_imho_irjustsomeoneelse.mp3"
+                  }
+                ]
+            }
+        ]
+      , "miscs": [
+            {
+                "title": "Hunz - Beg (knlrmx)"
+              , "description": "MIA, please, help me find it."
+              , "date": "XXXXXXXX"
+              , "links": [
+                  {
+                      "type": "XXX"
+                    , "text": "download on XXX"
+                  }
+                ]
+            }
+          , {
+                "title": "Majestueux"
+              , "description": "m a j e s t u e u x"
+              , "date": "20110423"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/parties/2011/revision11/music_tracked/kl_maj.it"
+                  }
+                ]
+            }
+          , {
+                "title": "Kaizoku - Skoomation (knlrmx)"
+              , "description": "Remix for Benefit of the boomemang / Vivace / Jor Timmermans rave duo Kaizoku."
+              , "date": "XXXXXXXX"
+              , "links": [
+                  {
+                      "type": "soundcloud"
+                    , "text": "stream/download on soundcloud"
+                    , "href": "https://soundcloud.com/kaneel/kaizoku-skooma-richieoffbeatrmx"
+                  }
+                ]
+            }
+          , {
+                "title": "Willbe - numerica invit (knlrmx)"
+              , "description": "BRB Scavenging"
+              , "date": "XXXXXXXX"
+              , "links": [
+                  {
+                      "type": "XXX"
+                    , "text": "download on XXX"
+                  }
+                ]
+            }
+          , {
+                "title": "Original Recipe - Hawkstone (knlrmx)"
+              , "description": "Fuzzy and break-y rmx for Dean Williams' duo Original Recipe."
+              , "date": "XXXXXXXX"
+              , "links": [
+                  {
+                      "type": "soundcloud"
+                    , "text": "stream/download on soundcloud"
+                    , "href": "https://soundcloud.com/kaneel/original-recipe-hawkstone-knldistrmx"
+                  }
+                ]
+            }
+          , {
+                "title": "Two left ears - 6 packs of dolls (knlrmx)"
+              , "description": "Melodic remix of an urban/hiphop/soul track featuring samples from Zelda."
+              , "date": "XXXXXXXX"
+              , "links": [
+                  {
+                      "type": "soundcloud"
+                    , "text": "stream/download on soundcloud"
+                    , "href": "https://soundcloud.com/kaneel/two-left-ears-6-pack-of-dolls-the-princess-is-in-another-rmx-by-kaneel"
+                  }
+                ]
+            }
+          , {
+                "title": "Les maux oubliés"
+              , "description": "probably one of the last .it I've ever done."
+              , "date": "2010XXXX"
+              , "links": [
+                  {
+                      "type": "soundcloud"
+                    , "text": "stream/download on soundcloud"
+                    , "href": "https://soundcloud.com/kaneel/les-maux-oublies"
+                  }
+                ]
+            }
+          , {
+                "title": "super double hyper BASH! attack"
+              , "description": "vic20; For Winter Chip II"
+              , "date": "20070128"
+              , "links": [
+                  {
+                      "type": "botb"
+                    , "text": "stream/download on botb.org"
+                    , "href": "http://battleofthebits.org/arena/Entry/super+double+hyper+BASH!+attack/438/"
+                  }
+                ]
+            }
+          , {
+                "title": "Mushen X Monsieur Baguetter - The unbelievable attack […]"
+              , "description" : "A junglist massive renoise song me and mushen did in renoise with renoise native fxs only. Mixed and mastered with renoise native fxs only by Mark Dollin."
+              , "date": "2007XXXX"
+              , "links": [
+                  {
+                      "type": "soundcloud"
+                    , "text": "stream/download on soundcloud"
+                    , "href": "https://soundcloud.com/kaneel/mushen-x-monsieurbaguette-the-unbelievable-attack-of-les-horrib-bananas"
+                  }
+                ]
+            }
+          , {
+                "title": "Poppolame"
+              , "description": "Neelka ritournelle in the background (from \"Drenched window\", kl_dw)"
+              , "date": "20040929"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive.org"
+                    , "href": "https://archive.org/details/camomille069"
+                  }
+                ]
+            }
+          , {
+                "title": "le piano cassé"
+              , "description": "a tune for an intro, they went with an other one."
+              , "date": "20040408"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/music/artists/kaneel/kl_click.zip"
+                  }
+                ]
+            }
+          , {
+                "title": "Le petit magneto du grenier"
+              , "description": "Some module for SOTA04."
+              , "date": "2004XXXX"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/parties/2004/start04/mmul/kaneel_-_petit_magn_tophone_du_grenier.zip"
+                  }
+                ]
+            }
+          , {
+                "title": "Drenched window"
+              , "description": "Never released; xm module probably started — again — as an intro module and then finished for ogredung but never released."
+              , "date": "2003XXXX"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/music/artists/kaneel/kl_dw.zip"
+                  }
+                ]
+            }
+          , {
+                "title": "north nights"
+              , "description": "Noise makeover of a leenak ritournelle."
+              , "date": "20031203"
+              , "links": [
+                  {
+                      "type": "archive"
+                    , "text": "stream/download on archive.org"
+                    , "href": "https://archive.org/details/camomille050"
+                  }
+                ]
+            }
+          , {
+                "title": "Infralude"
+              , "description": "!((0rkza1 feat purusha and urkuma… based on a theme by me, what could go wrong?"
+              , "date": "20030823"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/music/groups/camomille/cam43-infraluderemix_0rkza1.mp3"
+                  }
+                ]
+            }
+          , {
+                "title": "leenfisci"
+              , "description": "Some clicks for equinoxe03."
+              , "date": "20030323"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/parties/2003/equinoxe03/mmul/kaneel-bypass%5Ecamomille%5Eogredung-leenfisci.zip"
+                  }
+                ]
+            }
+          , {
+                "title": "ouch"
+              , "description": "one sample, one hour compo."
+              , "date": "2003XXXX"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/music/artists/kaneel/kl_ouch.zip"
+                  }
+                ]
+            }
+          , {
+                "title": "plastic friendship"
+              , "description": "based on a melody by vizion (muhr)"
+              , "date": "20021020"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/music/artists/kaneel/kl_plastikf.zip"
+                  }
+                ]
+            }
+          , {
+                "title": "acqree"
+              , "description": "module for a never-made demo."
+              , "date": "20020820"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/music/artists/kaneel/kl_acqre.zip"
+                  }
+                ]
+            }
+          , {
+                "title": "on that chair"
+              , "description": "clicks 'n love"
+              , "date": "20020730"
+              , "links": [
+                  {
+                    "type": "archive"
+                    , "text": "stream/download on archive.org"
+                    , "href": "https://archive.org/details/od050-converted"
+                  }
+                ]
+            }
+          , {
+                "title": "meeky scent"
+              , "description": "some \"exercice de style\" with breakbeats."
+              , "date": "20020628"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/music/artists/kaneel/kl_meeky.zip"
+                  }
+                ]
+            }
+          , {
+                "title": "inside it"
+              , "description": "chiptunes… but not entirely."
+              , "date": "20020225"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/music/artists/kaneel/insideit.zip"
+                  }
+                ]
+            }
+          , {
+                "title": "damn"
+              , "description": "some low vibes."
+              , "date": "200201126"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/music/artists/kaneel/kl_damn.zip"
+                  }
+                ]
+            }
+          , {
+                "title": "my sweet atlas"
+              , "description": "a journey."
+              , "date": "20020628"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download module on scene.org"
+                    , "href": "https://files.scene.org/view/music/artists/kaneel/kl_msa.zip"
+                  }
+                , {
+                      "type": "scene"
+                    , "text": "download mp3 on scene.org"
+                    , "href": "https://files.scene.org/view/music/groups/sunlikamelo-d/2002/slkmd005_kaneel_my_sweet_atlas.zip"
+                  }
+                ]
+            }
+          , {
+                "title": "cinnamon"
+              , "description": "first module as kaneel."
+              , "date": "20020114"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/view/music/artists/kaneel/cinnamon.zip"
+                  }
+                ]
+            }
+          , {
+                "title": "mods and misc files"
+              , "description": "List of mods on scene.org — contains modules from \"here is a heart\""
+              , "date": "XXXXXXXX"
+              , "links": [
+                  {
+                      "type": "scene"
+                    , "text": "download on scene.org"
+                    , "href": "https://files.scene.org/browse/music/artists/kaneel/"
+                  }
+                ]
+            }
+            , {
+                  "title": "MORE… on soundcloud"
+                , "description": "playlist of unreleased and miscs on soundcloud."
+                , "date": "XXXXXXXX"
+                , "links": [
+                    {
+                        "type": "soundcloud"
+                      , "text": "stream/download on soundcloud"
+                      , "href": "https://soundcloud.com/kaneel/sets/vault-of-miscs-unfinished-and"
+                    }
+                  ]
+              }
+        ]
+    }
+  , "footer": {
+
+    }
+}

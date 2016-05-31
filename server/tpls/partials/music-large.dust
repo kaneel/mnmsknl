@@ -1,0 +1,21 @@
+<section class="mnmsknl-music__article mnmsknl-music__article--large">
+  <header class="mnmsknl-music__header">
+    <p class="mnmsknl-music__date">{date}</p>
+    <h1 class="mnmsknl-music__title">{title}</h1>
+  </header>
+  <article class="mnmsknl-music__description">{description|s}
+  </article>
+  <footer class="mnmsknl-music__footer">
+    <ul class="mnmsknl-music__links">
+    {#links}
+      <li>
+        {#href}
+          <a href="{href}" target="_blank">{text}</a>
+        {:else}
+          <span>{text}</span>
+        {/href}
+      </li>
+    {/links}
+    </ul>
+  </footer>
+</section>

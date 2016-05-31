@@ -1,0 +1,13 @@
+{#head}
+  <meta charset="UTF-8" />
+  <title>{+pageTitle}my name is kaneel{/pageTitle}</title>
+  {#meta}
+    <meta name="{name}" content="{content}">
+  {/meta}
+  {#js}
+    <script type="text/javascript" src="{src}"></script>
+  {/js}
+  {#css}
+    <link href="{href}" rel="stylesheet" {#media}media={media}{/media}>
+  {/css}
+{/head}

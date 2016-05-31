@@ -1,0 +1,18 @@
+.mnmsknl-site__header{
+  margin: 0 0 2em;
+  text-align: right;
+  padding-bottom: .5em;
+  position: relative;
+  border-bottom: 2em solid;
+}
+
+  .mnmsknl-header__title{
+    margin: .2em 0 0;
+    line-height:1em;
+    font-weight: 600;
+  }
+
+  .mnmsknl-header__wow{
+    margin: 0;
+    font-weight: 100;
+  }

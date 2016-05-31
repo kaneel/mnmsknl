@@ -1,0 +1,56 @@
+.mnmsknl-music__category {
+  border-bottom: 4px solid;
+  font-size: 3em;
+  margin: 0 0 1em;
+  font-weight: 400;
+}
+
+.mnmsknl-music__article{
+  margin: 0 0 2em;
+
+  &:last-child {
+    .mnmsknl-music__links {
+      &:after {
+        display: none;
+      }
+    }
+  }
+}
+  .mnmsknl-music__date{
+    margin:0;
+    padding: 0;
+    line-height: 1em;
+    font-weight: 200;
+  }
+
+  .mnmsknl-music__title{
+    font-size: 3rem;
+    margin-top:0;
+    line-height: 1.2em;
+    font-weight: 600;
+  }
+
+  .mnmsknl-music__description{
+    margin: 2em 0;
+  }
+
+  .mnmsknl-music__links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    @media (--large-viewport) {
+     & {
+       display:inline-block;
+     }
+    }
+
+    &:after {
+      content: " ";
+      display: block;
+      width: 100%;
+      height: 2px;
+      background: var(--dark);
+      margin: 2em 0 0;
+    }
+  }
