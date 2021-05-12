@@ -18,7 +18,7 @@
     "markdownify": "^0.1.0",
     "modernizr": "^3.9.0",
     "partialify": "^3.1.6",
-    "postcss": "^7.0.26",
+    "postcss": "^8.2.10",
     "postcss-color-function": "^4.1.0",
     "postcss-color-hex-alpha": "^5.0.3",
     "postcss-custom-media": "^7.0.8",
