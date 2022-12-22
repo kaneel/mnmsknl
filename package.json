@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "dustjs-helpers": "^1.7.3",
-    "dustjs-linkedin": "^2.7.2",
+    "dustjs-linkedin": "^3.0.0",
     "koa": "^2.11.0",
     "koa-mount": "^4.0.0",
     "koa-router": "^8.0.7",
